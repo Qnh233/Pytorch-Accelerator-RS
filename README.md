@@ -1,11 +1,11 @@
-# Pytorch-Accelerator-Template
+# Pytorch-Accelerator-RS
 A trainer based on PyTorch and Accelerator, used in the field of RS
 # 项目介绍
 这是一个基于PyTorch和Accelerator的训练器模板，旨在帮助用户快速搭建深度学习训练环境，特别是在遥感（RS）领域。该模板集成了常用的训练功能，如数据加载、模型定义、训练循环、评估等，方便用户进行模型开发和实验。
 # 贷款特性
 - 基于PyTorch和Accelerator的训练器模板
 - 集成了常用的训练功能，如数据加载、模型定义、训练循环、评估等
-- 方便用户进行模型开发和实验，特别是在遥感领域
+- 方便用户进行模型开发和实验，特别是在遥感领域的任务
 - 支持多种深度学习任务，如图像分类、目标检测、自然语言处理等
 - 易于扩展和定制，用户可以根据自己的需求进行修改和优化
 - 提供详细的文档和示例代码，帮助用户快速上手
